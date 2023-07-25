@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/hover-dropdown/static/css/main.62d35358.css",
-    "main.js": "/hover-dropdown/static/js/main.9d9d64f6.js",
-    "static/js/787.96f50898.chunk.js": "/hover-dropdown/static/js/787.96f50898.chunk.js",
+    "main.js": "/hover-dropdown/static/js/main.e75335aa.js",
     "index.html": "/hover-dropdown/index.html",
     "main.62d35358.css.map": "/hover-dropdown/static/css/main.62d35358.css.map",
-    "main.9d9d64f6.js.map": "/hover-dropdown/static/js/main.9d9d64f6.js.map",
-    "787.96f50898.chunk.js.map": "/hover-dropdown/static/js/787.96f50898.chunk.js.map"
+    "main.e75335aa.js.map": "/hover-dropdown/static/js/main.e75335aa.js.map"
   },
   "entrypoints": [
     "static/css/main.62d35358.css",
-    "static/js/main.9d9d64f6.js"
+    "static/js/main.e75335aa.js"
   ]
 }
